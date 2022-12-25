@@ -1,0 +1,35 @@
+html {
+    font-family: system-ui, sans-serif;
+    font-size: 1.25rem;
+  }
+  
+  body {
+    margin: 0;
+    background-color: #93C8E6 ;
+  }
+  
+  svg {
+    display: inline-block;
+    vertical-align: middle;
+  }
+  
+  path {
+    fill: #2a354d;
+  }
+  
+  .App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  .icon {
+    /* fill: yellow; */
+    filter: opacity(80%);
+    stroke-width: 0.1;
+  }
+  .icon:hover {
+    /* fill: yellow; */
+    stroke: black;
+    stroke-width: 0.2;
+    
+  }
+  
