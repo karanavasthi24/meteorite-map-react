@@ -15,10 +15,10 @@ This app displays a map with markers representing meteorites that have fallen to
 4. Open a web browser and go to http://localhost:3000 to view the app
 
 ## Built With
-React - A JavaScript library for building user interfaces
-React Simple Maps - A library for creating interactive maps with React
-Axios - A library for making HTTP requests in JavaScript
-react-tooltip - A library for creating tooltips with React
+1. React - A JavaScript library for building user interfaces
+2. React Simple Maps - A library for creating interactive maps with React
+3. Axios - A library for making HTTP requests in JavaScript
+4. react-tooltip - A library for creating tooltips with React
 
 ## Author
 Karan Avasthi
