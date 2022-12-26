@@ -10,8 +10,14 @@ This app displays a map with markers representing meteorites that have fallen to
 ## Getting Started
 
 1. Clone or download the repository.
-2. Navigate to the project directory and install the dependencies: "$npm install"
-3. Start the development server: "$npm start"
+2. Navigate to the project directory and install the dependencies: $npm install
+3. Start the development server: $npm start
+4. Open a web browser and go to http://localhost:3000 to view the app
+
+## Building and running for production
+1. Run the build script: npm run build
+2. Install a static file server, such as serve: npm install -g serve
+3. Serve the production build of the app: serve -s build
 4. Open a web browser and go to http://localhost:3000 to view the app
 
 ## Built With
